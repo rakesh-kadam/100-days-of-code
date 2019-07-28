@@ -4,7 +4,7 @@
 
 **Today's Progress**: Built the enviorment to run Django Projects
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Learnd to install a virtual enviroment(Conda) in Ubutnu and to create, activate and deativate the virtual enviorment.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
