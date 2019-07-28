@@ -6,7 +6,6 @@
 
 **Thoughts:** Learnd to install a virtual enviroment(Conda) in Ubutnu and to create, activate and deativate the virtual enviorment.Built the first Django project and studied various files it includes and its funcition.
 
-**Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
