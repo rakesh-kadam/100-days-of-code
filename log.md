@@ -30,6 +30,7 @@ Migrations folder - This directory stores database specific information as it re
 Todays errors: (1)Django 2.0 path error ?: (2_0.W001) has a route that contains '(?P<', begins with a '^', or ends with a '$'
 
 soloution : (1) Instead of using 're_path' you can also use ''(empty string) as the first argument of your path().
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',views.index,name='index'),
