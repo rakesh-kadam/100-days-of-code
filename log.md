@@ -36,7 +36,7 @@ urlpatterns = [
     path('',views.index,name='index'),
 ]
 
-**Link to work:** [Test_App](http://www.example.com)
+**Link to work:** [Test_App](https://github.com/rakesh-kadam/My_Django_Stuff/tree/master/first_project)
 
 
 
