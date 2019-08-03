@@ -12,7 +12,7 @@
 **Today's Progress**: First Django Application with simple view.
 
 **Thoughts:** Learnd about plugable django application and created one.There are various flies in  a app such as :
-#__init_.py - Its a script that lets python know that this directory can be treated as a package.
+**__init_.py - Its a script that lets python know that this directory can be treated as a package.**
 #admin.py - Register models which Django will use them with Django admin interface.
 #apps.py - Here you can place application specific configuration
 #modelspy - Here you store the applications data models
